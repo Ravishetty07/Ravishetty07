@@ -39,3 +39,6 @@ I specialize in building websites using HTML, CSS, and JavaScript.<br><br>💡 W
 <br>
 
 
+### Profile Visit Count
+
+<img src="https://profile-counter.glitch.me/Ravishetty07/count.svg" alt=""/>
