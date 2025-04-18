@@ -10,7 +10,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://ravimshetty.netlify.app">「 Google Me 」</a>
+    <a href="https://ravishetty-portfolio.netlify.app">「 Google Me 」</a>
     <br>
     「 I am a full stack web app developer from <b>India</b> 」
     <br>
@@ -26,7 +26,6 @@ I am a passionate developer dedicated to enhancing my coding skills and creating
 I specialize in building websites using HTML, CSS, and JavaScript.<br><br>💡 What I Do:<br>Build and refine Full-Stack Clones.
 <br>Continuously work on self-driven projects to hone my expertise.<br>💼 Driven by a passion for growth and innovation in the tech world.<br><br>
 📧 &emsp; Reach me anytime: ravishetty05082@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://twitter.com/ravishettyRT)
 
 
 ## 🌐 Socials:
