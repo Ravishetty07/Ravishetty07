@@ -42,7 +42,5 @@ I am a passionate developer dedicated to enhancing my coding skills and creating
 
 </br>
 </br>
-
-![Snake animation dark](https://raw.githubusercontent.com/Ravishetty07/Ravishetty07/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/Ravishetty07/Ravishetty07/output/github-contribution-grid-snake.svg)
 
