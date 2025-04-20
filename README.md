@@ -39,3 +39,10 @@ I am a passionate developer dedicated to enhancing my coding skills and creating
 ### Profile Visit Count
 
 <img src="https://profile-counter.glitch.me/Ravishetty07/count.svg" alt=""/>
+
+</br>
+</br>
+
+![Snake animation dark](https://raw.githubusercontent.com/Ravishetty07/Ravishetty07/output/github-contribution-grid-snake-dark.svg)
+
+
