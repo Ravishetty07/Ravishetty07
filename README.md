@@ -19,18 +19,18 @@
 <h1 align="center"></h1>
 
   # 💫 About Me:
-👨‍💻 MERN Full Stack Developer | 📍 Kumta, INDIA
-🎓 BCA Undergraduate | SDM College | Sheryians Coding School Trainee
+👨‍💻 **MERN Full Stack Developer Trainee** | 📍 Kumta, INDIA  
+🎓 **BCA Undergraduate** | SDM College | Sheryians Coding School Trainee
 
-I'm a passionate developer focused on enhancing my skills and building impactful real-world applications. Currently mastering the MERN stack with a strong foundation in HTML, CSS, JavaScript, and Python. I’m also diving deeper into backend development using Node.js, Express, and MongoDB, while working on the Resume AI project – an AI-powered resume analysis and optimization tool.
+Passionate developer mastering the MERN stack with a strong foundation in HTML, CSS, JavaScript, and Python. Currently working on the **Resume AI** project – an AI-powered resume analysis tool.
 
-💡 What I Do:
-– Build and refine full-stack web apps & clones using MERN
-– Develop robust backend systems and RESTful APIs
-– Work on real-world projects like Resume AI to sharpen problem-solving and development skills
-– Continuously learning DSA, DevOps, and AI tools to stay industry-ready
+💡 **What I Do:**  
+– Build full-stack web apps using MERN  
+– Develop backend systems with Node.js, Express, and MongoDB  
+– Continuously learning DSA, DevOps, and AI tools
 
-💼 Fueled by curiosity, growth, and a drive to innovate in the tech space. </br></br>
+💼 Driven by growth, curiosity, and innovation in tech.
+
 📧 Reach me anytime: ravishetty05082@gmail.com <br/><br/>
 
 
