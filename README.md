@@ -23,7 +23,7 @@
   # 💫 About Me:
 🚀 Full-Stack Developer | 📍 Kumta, India<br>🎓 BCA Undergraduate | SDM College<br>
 I am a passionate developer dedicated to enhancing my coding skills and creating impactful applications and websites. 
-I specialize in building websites using HTML, CSS, and JavaScript.<br><br>💡 What I Do:<br>Build and refine Full-Stack Clones.
+<br><br>💡 What I Do:<br>Build and refine Full-Stack Clones.
 <br>Continuously work on self-driven projects to hone my expertise.<br>💼 Driven by a passion for growth and innovation in the tech world.<br><br>
 📧 &emsp; Reach me anytime: ravishetty05082@gmail.com<br/><br/>
 
