@@ -1,8 +1,5 @@
 ![Banner](https://github.com/Ravishetty07/Ravishetty07/blob/main/ravi-shetty-banner.png)
 
-<h1 align="center"></h1> 
-
-<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="">Ravi</a></b>
