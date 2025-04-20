@@ -2,7 +2,7 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">Ravi</a></b>
+                <b><a target="_blank" href="https://ravishetty-portfolio.netlify.app">Ravi</a></b>
         </samp>
 </h3>
 
@@ -19,11 +19,19 @@
 <h1 align="center"></h1>
 
   # 💫 About Me:
-🚀 Full-Stack Developer | 📍 Kumta, India<br>🎓 BCA Undergraduate | SDM College<br>
-I am a passionate developer dedicated to enhancing my coding skills and creating impactful applications and websites. 
-<br><br>💡 What I Do:<br>Build and refine Full-Stack Clones.
-<br>Continuously work on self-driven projects to hone my expertise.<br>💼 Driven by a passion for growth and innovation in the tech world.<br><br>
-📧 &emsp; Reach me anytime: ravishetty05082@gmail.com<br/><br/>
+👨‍💻 MERN Full Stack Developer | 📍 Kumta, INDIA
+🎓 BCA Undergraduate | SDM College | Sheryians Coding School Trainee
+
+I'm a passionate developer focused on enhancing my skills and building impactful real-world applications. Currently mastering the MERN stack with a strong foundation in HTML, CSS, JavaScript, and Python. I’m also diving deeper into backend development using Node.js, Express, and MongoDB, while working on the Resume AI project – an AI-powered resume analysis and optimization tool.
+
+💡 What I Do:
+– Build and refine full-stack web apps & clones using MERN
+– Develop robust backend systems and RESTful APIs
+– Work on real-world projects like Resume AI to sharpen problem-solving and development skills
+– Continuously learning DSA, DevOps, and AI tools to stay industry-ready
+
+💼 Fueled by curiosity, growth, and a drive to innovate in the tech space. </br></br>
+📧 Reach me anytime: ravishetty05082@gmail.com <br/><br/>
 
 
 ## 🌐 Socials:
